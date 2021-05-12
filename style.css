@@ -3373,7 +3373,7 @@ html[xmlns] .slider-wrap {
 	}
 
 	#header+.include-header {
-		margin-top: calc(-100px - 2px);
+		margin-top: initial !important;
 		display: inline-block;
 		vertical-align: bottom;
 		width: 100%;
